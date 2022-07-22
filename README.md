@@ -4,7 +4,7 @@
 
 **Note : Currently, this repository contains Mindi model of PIC18-Q41 family's OPAMP module. Mindi model of PIC16F17146 family's OPAMP module will be available soon.**
 
-In this example, the OPA module of PIC16F17146 is used to form a differential amplifier configuration. This Mindi simulation simulates the circuit described in the [Pressure Sensor interface with Differential output voltage Code Examples](https://github.com/orgs/microchip-pic-avr-examples/repositories?q=pic16f17146&type=all&language=&sort=). The simulation consists of a model of the PIC16F17146 OPA module, resistor bridge and generic components representing the rest of the functionality of the circuit. Another Op-Amp circuit is representing constant current circuit.
+In this example, the OPA module of PIC16F17146 is used to form a differential amplifier configuration. This Mindi simulation simulates the circuit described in the [Pressure Sensor interface with Differential output voltage Code Examples](https://github.com/microchip-pic-avr-examples/pic16f17146-pressure-sensor-interface-mplab-mcc). The simulation consists of a model of the PIC16F17146 OPA module, resistor bridge and generic components representing the rest of the functionality of the circuit. Another Op-Amp circuit is representing constant current circuit.
 For more information about getting started with and using the MPLAB Mindi Analog Simulator please refer to the following resources:
 - [Using the MPLAB Mindi Analog Simulator with the 8-Bit Operational Amplifier Module Technical Brief](https://www.microchip.com/DS90003293)
 - [Microchip Developer - Introduction to MPLAB Mindi Analog Simulator](https://www.microchipdeveloper.com/mindi:mindi-analog-simulator-introduction)
@@ -19,12 +19,12 @@ For more information about getting started with and using the MPLAB Mindi Analog
 * [PIC16F17146 Curiosity Nano User Guide](https://www.microchip.com/DS50003037)
 
 ## Related Software
-* [Pressure Sensor interface with Differential output voltage Code Examples](https://github.com/orgs/microchip-pic-avr-examples/repositories?q=pic16f17146&type=all&language=&sort=)
+* [Pressure Sensor interface with Differential output voltage Code Examples](https://github.com/microchip-pic-avr-examples/pic16f17146-pressure-sensor-interface-mplab-mcc)
 
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/pic16f17146-pressure-sensor-mindi/releases/latest)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/pic16f17146-differential-signal-interface-to-OPA-mindi/releases/tag/1.0.0)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
