@@ -15,7 +15,6 @@ In this example, the OPA module of PIC16F17146 is used to form a differential am
 
 * [PIC16F17146 Product Page](https://www.microchip.com/product/PIC16F17146)
 * [PIC16F17146 Data Sheet](https://www.microchip.com/DS40002343)
-* [PIC16F17146 Curiosity Nano User Guide](https://www.microchip.com/)
 
 ## Related Software
 * [Pressure Sensor interface with Differential output voltage Code Examples](https://github.com/microchip-pic-avr-examples/pic16f17146-pressure-sensor-interface-mplab-mcc)
